@@ -1,0 +1,22 @@
+@charset "EUC-KR";
+
+BODY{
+	font-size: 9pt; color: black; line-height:160%; font-family: ±¼¸², verdana, tahoma
+}
+
+TD{	font-size: 9pt; color:black; line-height:160%; font-family: ±¼¸²,  verdana, tohoma}
+select{	font-size: 9pt; color:black; line-height:160%; font-family: ±¼¸²,  verdana, tohoma}
+div{	font-size: 9pt; color:black; line-height:160%; font-family: ±¼¸²,  verdana, tohoma}
+form{	font-size: 9pt; color:black; line-height:160%; font-family: ±¼¸²,  verdana, tohoma}
+
+textarea{
+	border-right: 1px solid #999999; border-top: 1px solid #999999; font-size: 9pt; border-left: 1px solid #999999; color:black; border-bottom: 1px solid #999999; font-family: ±¼¸², verdana; background-color: white
+}
+
+input{
+	border-right: 1px solid #999999; border-top: 1px solid #999999; font-size: 9pt; border-left: 1px solid #999999; color:black; border-bottom: 1px solid #999999; font-family: ±¼¸², verdana; height: 19px; background-color: white
+}
+
+a:link {text-decoration:none;color:#696969}
+a:hover{text-decoration:yes;color:#66ccff}
+a:visited {text-decoration:nont;color:#330066}
